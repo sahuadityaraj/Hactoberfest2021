@@ -1,0 +1,2167 @@
+
+	<!DOCTYPE html>
+	<html lang="en-US">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<title>Optimal Info &#8211; Aditya Raj Sahu</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//pagead2.googlesyndication.com' />
+<link rel="alternate" type="application/rss+xml" title="Optimal Info &raquo; Feed" href="https://optimalinfo.tech/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Optimal Info &raquo; Comments Feed" href="https://optimalinfo.tech/comments/feed/" />
+<script>
+var pagelayer_ajaxurl = "https://optimalinfo.tech/wp-admin/admin-ajax.php?";
+var pagelayer_global_nonce = "bcb59b2ff2";
+var pagelayer_server_time = 1634095268;
+var pagelayer_is_live = "";
+var pagelayer_facebook_id = "";
+var pagelayer_settings = {"post_types":["post","page"],"enable_giver":"1","max_width":1170,"tablet_breakpoint":768,"mobile_breakpoint":360,"sidebar":false,"body_font":false,"color":false};
+var pagelayer_recaptch_lang = "";
+</script><link rel="alternate" type="application/rss+xml" title="Optimal Info &raquo; Home Comments Feed" href="https://optimalinfo.tech/home/feed/" />
+<style id="popularfx-global-styles" type="text/css">
+.site-header {background-color:#ffffff!important;}
+.site-title a {color:#171717!important;}
+.site-title a { font-size: 30 px; }
+.site-description {color:#171717 !important;}
+.site-description {font-size: 15px;}
+.site-footer {background-color:#171717! important;}
+
+</style><style id="pagelayer-global-styles" type="text/css">
+.pagelayer-row-stretch-auto > .pagelayer-row-holder, .pagelayer-row-stretch-full > .pagelayer-row-holder.pagelayer-width-auto{ max-width: 1170px; margin-left: auto; margin-right: auto;}
+@media (min-width: 769px){
+			.pagelayer-hide-desktop{
+				display:none !important;
+			}
+		}
+
+		@media (max-width: 768px) and (min-width: 361px){
+			.pagelayer-hide-tablet{
+				display:none !important;
+			}
+			.pagelayer-wp-menu-holder[data-drop_breakpoint="tablet"] .pagelayer-wp_menu-ul{
+				display:none;
+			}
+		}
+
+		@media (max-width: 360px){
+			.pagelayer-hide-mobile{
+				display:none !important;
+			}
+			.pagelayer-wp-menu-holder[data-drop_breakpoint="mobile"] .pagelayer-wp_menu-ul{
+				display:none;
+			}
+		}
+@media (max-width: 768px){
+	[class^="pagelayer-offset-"],
+	[class*=" pagelayer-offset-"] {
+		margin-left: 0;
+	}
+
+	.pagelayer-row .pagelayer-col {
+		margin-left: 0;
+		width: 100%;
+	}
+	.pagelayer-row.pagelayer-gutters .pagelayer-col {
+		margin-bottom: 16px;
+	}
+	.pagelayer-first-sm {
+		order: -1;
+	}
+	.pagelayer-last-sm {
+		order: 1;
+	}
+	
+
+}
+
+</style>		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/optimalinfo.tech\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='pagelayer-frontend-css'  href='https://optimalinfo.tech/wp-content/plugins/pagelayer/css/givecss.php?give=pagelayer-frontend.css%2Cnivo-lightbox.css%2Canimate.min.css%2Cowl.carousel.min.css%2Cowl.theme.default.min.css%2Cfont-awesome5.min.css&#038;premium&#038;ver=1.5.7' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://optimalinfo.tech/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='popularfx-style-css'  href='https://optimalinfo.tech/wp-content/uploads/popularfx-templates/financy/style.css?ver=1.2.0' media='all' />
+<link rel='stylesheet' id='popularfx-sidebar-css'  href='https://optimalinfo.tech/wp-content/themes/popularfx/sidebar.css?ver=1.2.0' media='all' />
+<script src='https://optimalinfo.tech/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://optimalinfo.tech/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='https://optimalinfo.tech/wp-content/plugins/pagelayer/js/givejs.php?give=pagelayer-frontend.js%2Cnivo-lightbox.min.js%2Cwow.min.js%2Cjquery-numerator.js%2CsimpleParallax.min.js%2Cowl.carousel.min.js&#038;premium&#038;ver=1.5.7' id='pagelayer-frontend-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script src='https://www.googletagmanager.com/gtag/js?id=UA-207171650-1' id='google_gtagjs-js' async></script>
+<script id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["optimalinfo.tech"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-207171650-1", {"anonymize_ip":true});
+gtag("config", "G-7HHDPCKV8F");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://optimalinfo.tech/wp-json/" /><link rel="alternate" type="application/json" href="https://optimalinfo.tech/wp-json/wp/v2/pages/18" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://optimalinfo.tech/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://optimalinfo.tech/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<link rel="canonical" href="https://optimalinfo.tech/" />
+<link rel='shortlink' href='https://optimalinfo.tech/' />
+<link rel="alternate" type="application/json+oembed" href="https://optimalinfo.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foptimalinfo.tech%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://optimalinfo.tech/wp-json/oembed/1.0/embed?url=https%3A%2F%2Foptimalinfo.tech%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.43.0" />
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google AdSense snippet added by Site Kit -->
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4911583924255272" crossorigin="anonymous"></script>
+
+<!-- End Google AdSense snippet added by Site Kit -->
+<link rel="icon" href="https://optimalinfo.tech/wp-content/uploads/2021/08/cropped-Screenshot-2021-08-20-at-12.08.29-PM-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://optimalinfo.tech/wp-content/uploads/2021/08/cropped-Screenshot-2021-08-20-at-12.08.29-PM-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://optimalinfo.tech/wp-content/uploads/2021/08/cropped-Screenshot-2021-08-20-at-12.08.29-PM-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://optimalinfo.tech/wp-content/uploads/2021/08/cropped-Screenshot-2021-08-20-at-12.08.29-PM-2-270x270.png" />
+	</head>
+
+	<body class="home page-template-default page page-id-18 wp-custom-logo popularfx-body pagelayer-body">
+		
+	<header class="pagelayer-header"><div pagelayer-id="3st5210" class="p-3st5210 pagelayer-post_props">
+</div>
+<div pagelayer-id="xlv4680" class="p-xlv4680 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="xlv4680">.p-xlv4680 .pagelayer-col-holder{padding: 10px}
+.p-xlv4680>.pagelayer-row-holder .pagelayer-col{align-content: center}
+.p-xlv4680 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-xlv4680 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-xlv4680 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-xlv4680 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-xlv4680 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+@media (max-width: 768px) and (min-width: 361px){.p-xlv4680{padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px}}
+@media (max-width: 360px){.p-xlv4680{padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px}}
+[pagelayer-id="xlv4680"]{z-index: 9 !important; position: relative}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="85l7573" class="p-85l7573 pagelayer-col">
+<style pagelayer-style-id="85l7573">.p-85l7573 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder [pagelayer-id="85l7573"]{width: 30%}
+@media (max-width: 768px) and (min-width: 361px){.pagelayer-row-holder [pagelayer-id="85l7573"]{width: 50%}}
+@media (max-width: 360px){.pagelayer-row-holder [pagelayer-id="85l7573"]{width: 50%}}
+.p-85l7573 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+@media (max-width: 360px){.p-85l7573{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="qe46778" class="p-qe46778 pagelayer-wp_title">
+<style pagelayer-style-id="qe46778">.p-qe46778 .pagelayer-wp-title-heading{font-family: ; font-size: 35px !important; font-style:  !important; font-weight: 700 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: 3px !important; word-spacing: px !important;color:#2a83f9;text-align:left;padding: 0px 0px 0px 10px}
+@media (max-width: 768px) and (min-width: 361px){.p-qe46778 .pagelayer-wp-title-heading{font-family: ; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-qe46778 .pagelayer-wp-title-heading{font-family: ; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+.p-qe46778 .pagelayer-wp-title-img{width:25%; height: auto}
+@media (max-width: 768px) and (min-width: 361px){.p-qe46778 .pagelayer-wp-title-img{width:20%; height: auto}}
+@media (max-width: 360px){.p-qe46778 .pagelayer-wp-title-img{width:35%; height: auto}}
+@media (max-width: 360px){.p-qe46778{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style><div class="pagelayer-wp-title-content">
+			<div class="pagelayer-wp-title-section">
+				<a href="https://optimalinfo.tech" class="pagelayer-wp-title-link pagelayer-ele-link pagelayer-wp-title-align-left pagelayer-wp-title-vertical-middle">
+					<img class="pagelayer-img pagelayer-wp-title-img" src="https://optimalinfo.tech/wp-content/uploads/2021/08/Screenshot-2021-08-20-at-12.08.29-PM.png" />
+					<div class="pagelayer-wp-title-holder">
+						<div class="pagelayer-wp-title-heading">Optimal Info</div>
+						
+					</div>
+				</a>
+			</div>			
+		<div></div></div></div></div></div><div pagelayer-id="vqn3596" class="p-vqn3596 pagelayer-col">
+<style pagelayer-style-id="vqn3596">.p-vqn3596 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder [pagelayer-id="vqn3596"]{width: 70%}
+@media (max-width: 768px) and (min-width: 361px){.pagelayer-row-holder [pagelayer-id="vqn3596"]{width: 50%}}
+@media (max-width: 360px){.pagelayer-row-holder [pagelayer-id="vqn3596"]{width: 50%}}
+.p-vqn3596 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="17u4104" class="p-17u4104 pagelayer-wp_menu">
+<style pagelayer-style-id="17u4104">.p-17u4104 ul{text-align:right}
+.p-17u4104 .pagelayer-wp-menu-container li{list-style: none}
+@media (max-width: 768px) and (min-width: 361px){.p-17u4104 .pagelayer-wp_menu-ul>li a:first-child{color: #ffffff}}
+@media (max-width: 360px){.p-17u4104 .pagelayer-wp_menu-ul>li a:first-child{color: #ffffff}}
+.p-17u4104 .pagelayer-wp_menu-ul>li>a:hover{color: #2a83f9}
+.p-17u4104 .pagelayer-wp_menu-ul>li.active-sub-menu>a:hover{color: #2a83f9}
+@media (max-width: 768px) and (min-width: 361px){.p-17u4104 .pagelayer-wp_menu-ul>li>a:hover{color: #2a83f9}}
+@media (max-width: 768px) and (min-width: 361px){.p-17u4104 .pagelayer-wp_menu-ul>li.active-sub-menu>a:hover{color: #2a83f9}}
+@media (max-width: 360px){.p-17u4104 .pagelayer-wp_menu-ul>li>a:hover{color: #ffffff}}
+@media (max-width: 360px){.p-17u4104 .pagelayer-wp_menu-ul>li.active-sub-menu>a:hover{color: #ffffff}}
+.p-17u4104 .pagelayer-wp_menu-ul>li.current-menu-item>a{color: #2a83f9}
+@media (max-width: 768px) and (min-width: 361px){.p-17u4104 .pagelayer-wp_menu-ul>li.current-menu-item>a{color: #2a83f9}}
+@media (max-width: 360px){.p-17u4104 .pagelayer-wp_menu-ul>li.current-menu-item>a{color: #ffffff}}
+.p-17u4104 .pagelayer-wp-menu-container ul li a{font-family:  !important; font-size: 16px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-17u4104 .pagelayer-heading-holder{font-family:  !important; font-size: 16px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-17u4104 .pagelayer-wp_menu-ul>li a{padding-left: 30px;padding-right: 30px}
+.p-17u4104 .pagelayer-wp_menu-ul>li>a{padding-top: 10px;padding-bottom	: 10px}
+.p-17u4104 .pagelayer-menu-type-horizontal .sub-menu{left:0px}
+.p-17u4104 .pagelayer-menu-type-horizontal .sub-menu .sub-menu{left:unset;left:100% !important;top:0px}
+.p-17u4104 .pagelayer-wp-menu-container ul.sub-menu>li a{color: #ffffff}
+.p-17u4104 .pagelayer-wp-menu-container ul.sub-menu{background-color: #0986c0}
+.p-17u4104 .pagelayer-wp-menu-container ul.sub-menu li a{padding-left: 10px;padding-right: 10px;padding-top: 10px;padding-bottom	: 10px}
+.p-17u4104 .pagelayer-wp-menu-container .sub-menu a{margin-left: 10px}
+.p-17u4104 .pagelayer-wp-menu-container .sub-menu .sub-menu a{margin-left: calc(2 * 10px)}
+.p-17u4104 .pagelayer-primary-menu-bar{text-align:center}
+@media (max-width: 768px) and (min-width: 361px){.p-17u4104 .pagelayer-primary-menu-bar{text-align:right}}
+@media (max-width: 360px){.p-17u4104 .pagelayer-primary-menu-bar{text-align:right}}
+.p-17u4104 .pagelayer-primary-menu-bar i{color:#ffffff;background-color:#2a83f9;font-size:30px}
+@media (max-width: 768px) and (min-width: 361px){.p-17u4104 .pagelayer-primary-menu-bar i{font-size:24px;padding:10px}}
+@media (max-width: 360px){.p-17u4104 .pagelayer-primary-menu-bar i{font-size:19px;padding:9px}}
+.p-17u4104 .pagelayer-menu-type-dropdown{width:30%;background-color:#11100e}
+@media (max-width: 768px) and (min-width: 361px){.p-17u4104 .pagelayer-menu-type-dropdown{width:60%}}
+@media (max-width: 360px){.p-17u4104 .pagelayer-menu-type-dropdown{width:60%}}
+.p-17u4104 .pagelayer-menu-type-dropdown .pagelayer-wp_menu-ul{width:100%;top: 8%; transform: translateY(-8%)}
+.p-17u4104 .pagelayer-wp_menu-close i{font-size:25px;padding:8px;color:#2a83f9;background-color:#f9f9f8;-webkit-transition: all 600ms !important; transition: all 600ms !important}
+@media (max-width: 360px){.p-17u4104 .pagelayer-wp_menu-close i{padding:NaNpx}}
+.p-17u4104 .pagelayer-wp_menu-close i:hover{color:#fcfcfc;background-color:#2a83f9}
+.p-17u4104 .pagelayer-wp_menu-ul a {
+ justify-content: unset !important; }
+@media screen and (max-width: 768px){
+.pagelayer-menu-type-dropdown .pagelayer-wp_menu-ul{
+margin-top: 60px;
+}
+}
+</style><div class="pagelayer-wp-menu-holder" data-layout="horizontal" data-submenu_ind="caret-down" data-drop_breakpoint="tablet">
+			<div class="pagelayer-primary-menu-bar"><i class="fas fa-bars"></i></div>
+			<div class="pagelayer-wp-menu-container pagelayer-menu-type-horizontal pagelayer-menu-hover-background slide pagelayer-wp_menu-right" data-align="right">
+				<div class="pagelayer-wp_menu-close"><i class="fas fa-times"></i></div>
+				<div class="menu-financy-header-menu-container"><ul id="2" class="pagelayer-wp_menu-ul"><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item menu-item-23"><a href="https://optimalinfo.tech/" aria-current="page">Home</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://optimalinfo.tech/blog/">Blog</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="https://optimalinfo.tech/about/">About</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://optimalinfo.tech/services/">Services</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://optimalinfo.tech/contact/">Contact</a></li>
+</ul></div>
+			</div>
+		</div></div></div></div></div></div>
+
+	</header>
+	<main id="primary" class="site-main">
+
+		
+<article id="post-18" class="post-18 page type-page status-publish hentry">
+	<header class="entry-header">
+			</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<div pagelayer-id="gmg4426" class="p-gmg4426 pagelayer-post_props">
+</div>
+<div pagelayer-id="bw43736" class="p-bw43736 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="bw43736">.p-bw43736 .pagelayer-background-overlay{background-color: #191c1d;opacity: 0.3;-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-bw43736 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-bw43736 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-bw43736 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-bw43736 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-bw43736{background-image: url("https://optimalinfo.tech/wp-content/uploads/2021/08/about-bg.jpg");background-attachment: scroll;background-position-x: center;background-position-y: center;background-repeat: no-repeat;background-size: cover;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 15em; padding-right: 0em; padding-bottom: 12em; padding-left: 0em}
+@media (max-width: 768px) and (min-width: 361px){.p-bw43736{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 170px; padding-right: 15px; padding-bottom: 70px; padding-left: 15px}}
+@media (max-width: 360px){.p-bw43736{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 140px; padding-right: 10px; padding-bottom: 40px; padding-left: 10px}}
+</style>
+			
+			
+			
+			<div class="pagelayer-background-overlay"></div>
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="zx36809" class="p-zx36809 pagelayer-col">
+<style pagelayer-style-id="zx36809">.p-zx36809 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-zx36809 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="jko2453" class="p-jko2453 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="jko2453">.p-jko2453{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-jko2453 .pagelayer-heading-holder *{color:#f3f4f3;font-family:  !important; font-size: 45px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-jko2453 .pagelayer-heading-holder{color:#f3f4f3;font-family:  !important; font-size: 45px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-jko2453 .pagelayer-heading-holder *{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-jko2453 .pagelayer-heading-holder{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-jko2453 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-jko2453 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+Our analysis is your</div>
+		
+			</div><div pagelayer-id="fft7220" class="p-fft7220 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="fft7220">.p-fft7220{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-fft7220 .pagelayer-heading-holder *{color:#f3f4f3;font-family:  !important; font-size: 45px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-fft7220 .pagelayer-heading-holder{color:#f3f4f3;font-family:  !important; font-size: 45px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-fft7220 .pagelayer-heading-holder *{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-fft7220 .pagelayer-heading-holder{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-fft7220 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-fft7220 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+<span style="color: #2A83F9">FINANCIAL</span> result.</div>
+		
+			</div><div pagelayer-id="rop1946" class="p-rop1946 pagelayer-text fadeInUp pagelayer-wow pagelayer-anim-slow">
+<style pagelayer-style-id="rop1946">.p-rop1946{padding-top: 0em; padding-right: 40em; padding-bottom: 0em; padding-left: 0em;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+@media (max-width: 768px) and (min-width: 361px){.p-rop1946{padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px}}
+@media (max-width: 360px){.p-rop1946{padding-top: 1px; padding-right: 1px; padding-bottom: 1px; padding-left: 1px}}
+</style><div class="pagelayer-text-holder">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquip ex ea commodo consequat.</span></p></div></div></div></div></div></div>
+<div pagelayer-id="bs56854" class="p-bs56854 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="bs56854">.p-bs56854 .pagelayer-col-holder{padding: 10px}
+.p-bs56854 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-bs56854 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-bs56854 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-bs56854 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-bs56854 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-bs56854{background: #ffffff;margin-top: 0em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em;padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em}
+@media (max-width: 360px){.p-bs56854{margin-top: 0em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em;padding-top: 20px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px}}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="u7b6509" class="p-u7b6509 pagelayer-col pagelayer-col-12">
+<style pagelayer-style-id="u7b6509">.p-u7b6509{align-content: center !important}
+.p-u7b6509 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 8px}
+.p-u7b6509 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="wrb7233" class="p-wrb7233 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="wrb7233">.p-wrb7233 .pagelayer-col-holder{padding: 10px}
+.p-wrb7233 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-wrb7233 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-wrb7233 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-wrb7233 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-wrb7233 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-wrb7233{background: #ffffff;margin-top: -5em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em;padding-top: 3em; padding-right: 3em; padding-bottom: 3em; padding-left: 3em}
+@media (max-width: 768px) and (min-width: 361px){.p-wrb7233{margin-top: -3em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em;padding-top: 3em; padding-right: 0em; padding-bottom: 1em; padding-left: 0em}}
+@media (max-width: 360px){.p-wrb7233{margin-top: -3em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em;padding-top: 2em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em}}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="vfs5215" class="p-vfs5215 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="vfs5215">.p-vfs5215{align-content: center !important}
+.p-vfs5215 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 8px}
+.p-vfs5215 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="zlm7505" class="p-zlm7505 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="zlm7505">.p-zlm7505 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-zlm7505 .pagelayer-service-icon i{color:#f92a2a;-webkit-transition: all 400ms; transition: all 400ms}
+.p-zlm7505 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-zlm7505 .pagelayer-service-details{text-align:left}
+.p-zlm7505 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-zlm7505{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-zlm7505:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fab fa-youtube pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Youtube</div>
+				
+				<div class="pagelayer-service-text">Subscribe to my youtube channel to get all the exclusive content.</div>
+				
+			</div>
+			<a href="https://www.youtube.com/channel/UCP7uJ4shOnpuIXgd976deFQ" class="pagelayer-ele-link pagelayer-box-link" target="_blank"> </a>
+		</div></div></div></div><div pagelayer-id="sue3678" class="p-sue3678 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="sue3678">.p-sue3678{align-content: center !important}
+.p-sue3678 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 8px}
+.p-sue3678 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="nec3886" class="p-nec3886 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="nec3886">.p-nec3886 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-nec3886 .pagelayer-service-icon i{color:#f92a6b;-webkit-transition: all 400ms; transition: all 400ms}
+.p-nec3886 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-nec3886 .pagelayer-service-details{text-align:left}
+.p-nec3886 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-nec3886{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-nec3886:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fab fa-instagram pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Instagram</div>
+				
+				<div class="pagelayer-service-text">Follow me on instagram to get to know more about my personal life.</div>
+				
+			</div>
+			<a href="https://www.instagram.com/aditya_raj_594/" class="pagelayer-ele-link pagelayer-box-link" target="_blank"> </a>
+		</div></div></div></div><div pagelayer-id="tc49064" class="p-tc49064 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="tc49064">.p-tc49064{align-content: center !important}
+.p-tc49064 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 8px}
+.p-tc49064 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="7wn6136" class="p-7wn6136 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="7wn6136">.p-7wn6136 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-7wn6136 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-7wn6136 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-7wn6136 .pagelayer-service-details{text-align:left}
+.p-7wn6136 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-7wn6136{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-7wn6136:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fab fa-linkedin pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">LinkedIn</div>
+				
+				<div class="pagelayer-service-text">Connect with me on linkedin to know all my achievements and more about my professional life.</div>
+				
+			</div>
+			<a href="https://www.linkedin.com/in/adityarajsahu/" class="pagelayer-ele-link pagelayer-box-link" target="_blank"> </a>
+		</div></div></div></div><div pagelayer-id="5642433" class="p-5642433 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="5642433">.p-5642433 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-5642433 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="0z01340" class="p-0z01340 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="0z01340">.p-0z01340 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-0z01340 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-0z01340 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-0z01340 .pagelayer-service-details{text-align:left}
+.p-0z01340 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-0z01340{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-0z01340:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fab fa-twitter pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Twitter</div>
+				
+				<div class="pagelayer-service-text">Follow me on twitter to see my latest tweets.</div>
+				
+			</div>
+			<a href="https://twitter.com/sahuadityaraj" class="pagelayer-ele-link pagelayer-box-link" target="_blank"> </a>
+		</div></div></div></div></div></div></div></div></div></div>
+<div pagelayer-id="yao4390" class="p-yao4390 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="yao4390">.p-yao4390 .pagelayer-col-holder{padding: 10px}
+.p-yao4390 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-yao4390 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-yao4390 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-yao4390 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-yao4390 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-yao4390{padding-top: 0em; padding-right: 2em; padding-bottom: 3em; padding-left: 2em}
+@media (max-width: 768px) and (min-width: 361px){.p-yao4390{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em}}
+@media (max-width: 360px){.p-yao4390{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em}}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="g5j2737" class="p-g5j2737 pagelayer-col pagelayer-col-5">
+<style pagelayer-style-id="g5j2737">.p-g5j2737 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-g5j2737 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-g5j2737{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 2em}
+@media (max-width: 768px) and (min-width: 361px){.p-g5j2737{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+@media (max-width: 360px){.p-g5j2737{padding-top: 1px; padding-right: 1px; padding-bottom: 1px; padding-left: 1px}}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="1hz3323" class="p-1hz3323 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="1hz3323">.p-1hz3323{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-1hz3323 .pagelayer-heading-holder *{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-1hz3323 .pagelayer-heading-holder{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Our Analisys is Your</div>
+		
+			</div><div pagelayer-id="8om7327" class="p-8om7327 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="8om7327">.p-8om7327{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-8om7327 .pagelayer-heading-holder *{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-8om7327 .pagelayer-heading-holder{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-8om7327 .pagelayer-heading-holder *{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-8om7327 .pagelayer-heading-holder{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-8om7327 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-8om7327 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+<span style="color: #2A83F9">ANALISYS </span> Services</div>
+		
+			</div><div pagelayer-id="n983911" class="p-n983911 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="n983911">.p-n983911{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-n983911 .pagelayer-heading-holder *{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-n983911 .pagelayer-heading-holder{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Analisys of Financial Documents</div>
+		
+			</div></div></div><div pagelayer-id="6988697" class="p-6988697 pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="6988697">.p-6988697 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-6988697 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-6988697{padding-top: 0em; padding-right: 6em; padding-bottom: 0em; padding-left: 0em}
+@media (max-width: 768px) and (min-width: 361px){.p-6988697{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+@media (max-width: 360px){.p-6988697{padding-top: 1px; padding-right: 1px; padding-bottom: 1px; padding-left: 1px}}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="nvs8743" class="p-nvs8743 pagelayer-text fadeInUp pagelayer-wow">
+<style pagelayer-style-id="nvs8743">.p-nvs8743{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+@media (max-width: 768px) and (min-width: 361px){.p-nvs8743{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+@media (max-width: 360px){.p-nvs8743{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style><div class="pagelayer-text-holder">
+
+
+
+
+
+
+
+<p style="text-align: left">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Aenaen massa, Cum soolis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus.
+</p></div></div></div></div></div></div>
+<div pagelayer-id="xx17675" class="p-xx17675 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="xx17675">.p-xx17675 .pagelayer-col-holder{padding: 10px}
+.p-xx17675 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-xx17675 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-xx17675 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-xx17675 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-xx17675 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-xx17675{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="fck2473" class="p-fck2473 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="fck2473">.p-fck2473 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-fck2473 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="jhc9168" class="p-jhc9168 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="jhc9168">.p-jhc9168 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-jhc9168 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-jhc9168 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-jhc9168 .pagelayer-service-details{text-align:left}
+.p-jhc9168 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-jhc9168{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-jhc9168:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fas fa-tv pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Analysis of Financial Documents</div>
+				
+				<div class="pagelayer-service-text">
+
+
+
+
+
+
+
+<p style="font-size: 16px">Aenaen massa, Cum soolis natoque penatibus montes nascetur ridiculus mus.</p></div>
+				
+			</div>
+			 
+		</div></div><div pagelayer-id="mti1666" class="p-mti1666 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="mti1666">.p-mti1666 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-mti1666 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-mti1666 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-mti1666 .pagelayer-service-details{text-align:left}
+.p-mti1666 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-mti1666{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-mti1666:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fas fa-cogs pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Analysis of Financial Documents</div>
+				
+				<div class="pagelayer-service-text">
+
+
+
+
+
+
+
+<p style="font-size: 16px">Aenaen massa, Cum soolis natoque penatibus montes nascetur ridiculus mus.</p></div>
+				
+			</div>
+			 
+		</div></div></div></div><div pagelayer-id="06o7167" class="p-06o7167 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="06o7167">.p-06o7167 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 8px}
+.p-06o7167 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="61w1027" class="p-61w1027 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="61w1027">.p-61w1027 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-61w1027 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-61w1027 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-61w1027 .pagelayer-service-details{text-align:left}
+.p-61w1027 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-61w1027{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-61w1027:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fas fa-comments pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Analysis of Financial Documents</div>
+				
+				<div class="pagelayer-service-text">
+
+
+
+
+
+
+
+<p style="font-size: 16px">Aenaen massa, Cum soolis natoque penatibus montes nascetur ridiculus mus.</p></div>
+				
+			</div>
+			 
+		</div></div><div pagelayer-id="dcz4348" class="p-dcz4348 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="dcz4348">.p-dcz4348 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-dcz4348 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-dcz4348 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-dcz4348 .pagelayer-service-details{text-align:left}
+.p-dcz4348 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-dcz4348{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-dcz4348:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="far fa-lightbulb pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Analysis of Financial Documents</div>
+				
+				<div class="pagelayer-service-text">
+
+
+
+
+
+
+
+<p style="font-size: 16px">Aenaen massa, Cum soolis natoque penatibus montes nascetur ridiculus mus.</p></div>
+				
+			</div>
+			 
+		</div></div></div></div><div pagelayer-id="3225964" class="p-3225964 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="3225964">.p-3225964 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-3225964 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="07r4165" class="p-07r4165 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="07r4165">.p-07r4165 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-07r4165 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-07r4165 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-07r4165 .pagelayer-service-details{text-align:left}
+.p-07r4165 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-07r4165{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-07r4165:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fas fa-chart-pie pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Analysis of Financial Documents</div>
+				
+				<div class="pagelayer-service-text">
+
+
+
+
+
+
+
+<p style="font-size: 16px">Aenaen massa, Cum soolis natoque penatibus montes nascetur ridiculus mus.</p></div>
+				
+			</div>
+			 
+		</div></div><div pagelayer-id="0h67397" class="p-0h67397 pagelayer-iconbox fadeInUp pagelayer-wow">
+<style pagelayer-style-id="0h67397">.p-0h67397 .pagelayer-service-icon{text-align: left;,;padding-top:0px; padding-right:15px; padding-bottom:0px; padding-left:0px;font-size:45px}
+.p-0h67397 .pagelayer-service-icon i{color:#2a83f9;-webkit-transition: all 400ms; transition: all 400ms}
+.p-0h67397 .pagelayer-service-heading{text-align:left;padding-top:20px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#0c0d0d;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-0h67397 .pagelayer-service-details{text-align:left}
+.p-0h67397 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+.p-0h67397{padding-top: 0em; padding-right: 0em; padding-bottom: 2em; padding-left: 0em;box-shadow: px px px px   !important;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+@media (max-width: 768px) and (min-width: 361px){.p-0h67397{padding-top: 1px; padding-right: 1px; padding-bottom: 20px; padding-left: 1px}}
+@media (max-width: 360px){.p-0h67397{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+.p-0h67397:hover{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fas fa-chart-bar pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Analysis of Financial Documents</div>
+				
+				<div class="pagelayer-service-text">
+
+
+
+
+
+
+
+<p style="font-size: 16px">Aenaen massa, Cum soolis natoque penatibus montes nascetur ridiculus mus.</p></div>
+				
+			</div>
+			 
+		</div></div></div></div></div></div>
+<div pagelayer-id="cqc3740" class="p-cqc3740 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="cqc3740">.p-cqc3740 .pagelayer-col-holder{padding: 10px}
+.p-cqc3740 .pagelayer-background-overlay{background-color: rgba(6,44,95,0.74);opacity: 0.5;-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-cqc3740 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-cqc3740 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-cqc3740 .pagelayer-row-svg .pagelayer-svg-bottom{width:500%;height:100px}
+.p-cqc3740{background-image: url("https://optimalinfo.tech/wp-content/uploads/2021/08/about-bg01.jpg");background-attachment: scroll;background-position-x: center;background-position-y: bottom;background-repeat: no-repeat;background-size: cover;padding-top: 5em; padding-right: 0em; padding-bottom: 5em; padding-left: 0em}
+@media (max-width: 768px) and (min-width: 361px){.p-cqc3740{padding-top: 50px; padding-right: 0px; padding-bottom: 50px; padding-left: 0px}}
+@media (max-width: 360px){.p-cqc3740{padding-top: 30px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px}}
+</style>
+			
+			
+			<div class="pagelayer-row-shape">
+				<div class="pagelayer-row-svg">
+					
+											
+				</div>
+			</div>
+			<div class="pagelayer-background-overlay"></div>
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="n1l9558" class="p-n1l9558 pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="n1l9558">.p-n1l9558 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-n1l9558 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="rea8567" class="p-rea8567 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="rea8567">.p-rea8567{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-rea8567 .pagelayer-heading-holder *{color:#f3f4f3;font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-rea8567 .pagelayer-heading-holder{color:#f3f4f3;font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-rea8567 .pagelayer-heading-holder *{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-rea8567 .pagelayer-heading-holder{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-rea8567 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-rea8567 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+Our analysis is your</div>
+		
+			</div><div pagelayer-id="fwg9680" class="p-fwg9680 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="fwg9680">.p-fwg9680{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-fwg9680 .pagelayer-heading-holder *{color:#f3f4f3;font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-fwg9680 .pagelayer-heading-holder{color:#f3f4f3;font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-fwg9680 .pagelayer-heading-holder *{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-fwg9680 .pagelayer-heading-holder{font-family:  !important; font-size: 34px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-fwg9680 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-fwg9680 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+<span style="color: #2A83F9">FINANCIAL</span> result.</div>
+		
+			</div><div pagelayer-id="ogk4297" class="p-ogk4297 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="ogk4297">.p-ogk4297{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-ogk4297 .pagelayer-heading-holder *{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-ogk4297 .pagelayer-heading-holder{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Analisys of Financial Documents</div>
+		
+			</div><div pagelayer-id="ujs5518" class="p-ujs5518 pagelayer-text fadeInUp pagelayer-wow pagelayer-anim-slow">
+<style pagelayer-style-id="ujs5518">.p-ujs5518{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+@media (max-width: 768px) and (min-width: 361px){.p-ujs5518{padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 0px}}
+@media (max-width: 360px){.p-ujs5518{padding-top: 1px; padding-right: 1px; padding-bottom: 1px; padding-left: 1px}}
+</style><div class="pagelayer-text-holder">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquip ex ea commodo consequat.</span></p></div></div><div pagelayer-id="83t9788" class="p-83t9788 pagelayer-text fadeInUp pagelayer-wow">
+<style pagelayer-style-id="83t9788">.p-83t9788{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+@media (max-width: 768px) and (min-width: 361px){.p-83t9788{padding-top: 0px; padding-right: 20px; padding-bottom: 0px; padding-left: 0px}}
+@media (max-width: 360px){.p-83t9788{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style><div class="pagelayer-text-holder">
+
+
+
+
+
+
+<p><span>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></div></div><div pagelayer-id="e0w6396" class="p-e0w6396 pagelayer-list fadeInUp pagelayer-wow pagelayer-anim-slow">
+<style pagelayer-style-id="e0w6396">.p-e0w6396 li{list-style-type: disc;font-family: ; font-size: 16px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-e0w6396 .pagelayer-list-icon-holder{padding-bottom: calc(10px/2); padding-top: calc(10px/2)}
+.p-e0w6396 .pagelayer-list-item{color:#ffffff;margin-left: 10px}
+.p-e0w6396 li > a{font-family: ; font-size: 16px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-e0w6396 .pagelayer-list-icon{color:#0986c0}
+.p-e0w6396{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 20px;-webkit-animation-delay: 700ms; animation-delay: 700ms}
+</style><ul class="pagelayer-list-ul pagelayer-list-type-disc"><div pagelayer-id="tne8458" class="p-tne8458 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Analisys of Financial Documents</span>
+					</span>
+				
+			</li></div><div pagelayer-id="ab62770" class="p-ab62770 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Analisys of Financial Documents</span>
+					</span>
+				
+			</li></div><div pagelayer-id="hdk7593" class="p-hdk7593 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Analisys of Financial Documents</span>
+					</span>
+				
+			</li></div><div pagelayer-id="kzs5718" class="p-kzs5718 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Analisys of Financial Documents</span>
+					</span>
+				
+			</li></div></ul></div><div pagelayer-id="q6i8447" class="p-q6i8447 pagelayer-btn fadeInUp pagelayer-wow pagelayer-anim-slow">
+<style pagelayer-style-id="q6i8447">.p-q6i8447{text-align: left;-webkit-animation-delay: 700ms; animation-delay: 700ms}
+.p-q6i8447 .pagelayer-btn-holder{padding: calc(25px / 2) 25px;background-color: #2a83f9;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-q6i8447 .pagelayer-btn-anim-thin{background-color: unset !important;border-style: unset !important}
+.p-q6i8447 .pagelayer-btn-anim-thin::before{background-color: #2a83f9}
+.p-q6i8447 .pagelayer-btn-anim-thin::after{background-color: #2a83f9}
+.p-q6i8447 .pagelayer-btn-holder, .p-q6i8447 .pagelayer-btn-anim-thin:after, .p-q6i8447 .pagelayer-btn-anim-thin:before{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.p-q6i8447 .pagelayer-btn-holder, .p-q6i8447 .pagelayer-btn-anim-glow:before{border-radius: 20px 20px 20px 20px; -webkit-border-radius:  20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px}
+</style><a class="pagelayer-btn-holder pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-custom {{icon_position}}">
+					
+					<span class="pagelayer-btn-text">Read More</span>
+					
+				</a></div></div></div><div pagelayer-id="ui49539" class="p-ui49539 pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="ui49539">.p-ui49539{align-content: center !important}
+.p-ui49539 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-ui49539 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="u633672" class="p-u633672 pagelayer-image fadeInUp pagelayer-wow pagelayer-anim-slow" align="center">
+<style pagelayer-style-id="u633672">.p-u633672 img{width: 200  400px; height: {{val[1]}}px;max-width: 35%}
+.p-u633672 .pagelayer-image-holder{text-align: center}
+.p-u633672 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+@media (max-width: 768px) and (min-width: 361px){.p-u633672 img{max-width: 45%}}
+.p-u633672 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-u633672 .pagelayer-image-caption{color: #0986c0}
+.p-u633672{border-radius: 100em 100em 100em 100em; -webkit-border-radius: 100em 100em 100em 100em;-moz-border-radius: 100em 100em 100em 100em;-webkit-animation-delay: 700ms; animation-delay: 700ms}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://optimalinfo.tech/wp-content/uploads/2021/08/my-passport-photo.jpg" title="my-passport-photo" alt="my-passport-photo" srcset="https://optimalinfo.tech/wp-content/uploads/2021/08/my-passport-photo.jpg, https://optimalinfo.tech/wp-content/uploads/2021/08/my-passport-photo.jpg 1x, " />
+				
+			
+		</div>
+		</div></div></div></div></div>
+<div pagelayer-id="xt88968" class="p-xt88968 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="xt88968">.p-xt88968 .pagelayer-col-holder{padding: 10px}
+.p-xt88968 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-xt88968 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-xt88968 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-xt88968 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-xt88968 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-xt88968{padding-top: 4em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em}
+@media (max-width: 768px) and (min-width: 361px){.p-xt88968{padding-top: 3em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em}}
+@media (max-width: 360px){.p-xt88968{padding-top: 2em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em}}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="1p09422" class="p-1p09422 pagelayer-col">
+<style pagelayer-style-id="1p09422">.p-1p09422 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-1p09422 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="4ib2818" class="p-4ib2818 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="4ib2818">.p-4ib2818{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-4ib2818 .pagelayer-heading-holder *{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-4ib2818 .pagelayer-heading-holder{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Our Analisys is Your</div>
+		
+			</div><div pagelayer-id="66v3968" class="p-66v3968 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="66v3968">.p-66v3968{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-66v3968 .pagelayer-heading-holder *{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-66v3968 .pagelayer-heading-holder{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-66v3968 .pagelayer-heading-holder *{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-66v3968 .pagelayer-heading-holder{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-66v3968 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-66v3968 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+<span style="color: #2A83F9">CUSTOMER</span> testimonial</div>
+		
+			</div><div pagelayer-id="ire4901" class="p-ire4901 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="ire4901">.p-ire4901{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-ire4901 .pagelayer-heading-holder *{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-ire4901 .pagelayer-heading-holder{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Analisys of Financial Documents</div>
+		
+			</div><div pagelayer-id="dzl7915" class="p-dzl7915 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="dzl7915">.p-dzl7915 .pagelayer-col-holder{padding: 10px}
+.p-dzl7915 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-dzl7915 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-dzl7915 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-dzl7915 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-dzl7915 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="7au9722" class="p-7au9722 pagelayer-col pagelayer-col-2">
+<style pagelayer-style-id="7au9722">.p-7au9722 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-7au9722 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="iqt8195" class="p-iqt8195 pagelayer-testimonial fadeInUp pagelayer-wow">
+<style pagelayer-style-id="iqt8195">.p-iqt8195{text-align:left;background: #ffffff;padding-top: 2em; padding-right: 2em; padding-bottom: 2em; padding-left: 2em;box-shadow: 1px 2px 4px 3px #eeeeee  !important;border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 3px; border-left-width: 0px;border-color: #2a83f9;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-iqt8195 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-iqt8195  .pagelayer-testimonial-image{width:100px !important; height:100px !important}
+.p-iqt8195  .pagelayer-testimonial-author {color:#111313}
+.p-iqt8195 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-iqt8195 .pagelayer-testimonial-cite{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 15px}
+.p-iqt8195 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 15px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-aside-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-circle" src="https://optimalinfo.tech/wp-content/uploads/2021/08/client01.jpg" title="client01" alt="client01" />
+			</div>
+			<div class="pagelayer-aside-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">Celina Martin</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						Business Person
+					</span>
+				</div>
+			</div>
+		</div></div></div></div><div pagelayer-id="szj9190" class="p-szj9190 pagelayer-col pagelayer-col-2">
+<style pagelayer-style-id="szj9190">.p-szj9190 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-szj9190 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="63p9588" class="p-63p9588 pagelayer-testimonial fadeInUp pagelayer-wow">
+<style pagelayer-style-id="63p9588">.p-63p9588{text-align:left;background: #ffffff;padding-top: 2em; padding-right: 2em; padding-bottom: 2em; padding-left: 2em;box-shadow: 1px 2px 4px 3px #eeeeee  !important;border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 3px; border-left-width: 0px;border-color: #2a83f9;-webkit-animation-delay: 700ms; animation-delay: 700ms}
+.p-63p9588 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-63p9588  .pagelayer-testimonial-image{width:100px !important; height:100px !important}
+.p-63p9588  .pagelayer-testimonial-author {color:#111313}
+.p-63p9588 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-63p9588 .pagelayer-testimonial-cite{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 15px}
+.p-63p9588 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 15px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-aside-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-circle" src="https://optimalinfo.tech/wp-content/uploads/2021/08/client01.jpg" title="client01" alt="client01" />
+			</div>
+			<div class="pagelayer-aside-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">Tony Smith</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						Business Person
+					</span>
+				</div>
+			</div>
+		</div></div></div></div><div pagelayer-id="i2k5448" class="p-i2k5448 pagelayer-col pagelayer-col-2">
+<style pagelayer-style-id="i2k5448">.p-i2k5448 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-i2k5448 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="0x79313" class="p-0x79313 pagelayer-testimonial fadeInUp pagelayer-wow pagelayer-anim-slow">
+<style pagelayer-style-id="0x79313">.p-0x79313{text-align:left;background: #ffffff;padding-top: 2em; padding-right: 2em; padding-bottom: 2em; padding-left: 2em;box-shadow: 1px 2px 4px 3px #eeeeee  !important;border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 3px; border-left-width: 0px;border-color: #2a83f9;-webkit-animation-delay: 700ms; animation-delay: 700ms}
+.p-0x79313 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-0x79313  .pagelayer-testimonial-image{width:100px !important; height:100px !important}
+.p-0x79313  .pagelayer-testimonial-author {color:#111313}
+.p-0x79313 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-0x79313 .pagelayer-testimonial-cite{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 15px}
+.p-0x79313 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 15px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p></div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-aside-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-circle" src="https://optimalinfo.tech/wp-content/uploads/2021/08/client03.jpg" title="client03" alt="client03" />
+			</div>
+			<div class="pagelayer-aside-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">Alena Due</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						Business Person
+					</span>
+				</div>
+			</div>
+		</div></div></div></div></div></div></div></div></div></div>
+<div pagelayer-id="ixb5464" class="p-ixb5464 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="ixb5464">.p-ixb5464 .pagelayer-col-holder{padding: 10px}
+.p-ixb5464 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-ixb5464 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-ixb5464 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-ixb5464 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-ixb5464 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-ixb5464{background: #bae4fa;margin-top: 4em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em;padding-top: 3em; padding-right: 0em; padding-bottom: 3em; padding-left: 0em}
+@media (max-width: 768px) and (min-width: 361px){.p-ixb5464{margin-top: 3em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em}}
+@media (max-width: 360px){.p-ixb5464{margin-top: 2em; margin-right: 0em; margin-bottom: 0em; margin-left: 0em}}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="5971084" class="p-5971084 pagelayer-col">
+<style pagelayer-style-id="5971084">.p-5971084 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-5971084 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="gcz9189" class="p-gcz9189 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="gcz9189">.p-gcz9189{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-gcz9189 .pagelayer-heading-holder *{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-gcz9189 .pagelayer-heading-holder{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Our Analisys is Your</div>
+		
+			</div><div pagelayer-id="1mo2468" class="p-1mo2468 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="1mo2468">.p-1mo2468{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-1mo2468 .pagelayer-heading-holder *{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-1mo2468 .pagelayer-heading-holder{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-1mo2468 .pagelayer-heading-holder *{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-1mo2468 .pagelayer-heading-holder{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-1mo2468 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-1mo2468 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+<span style="color: #2A83F9">CHOOSE A</span> staff</div>
+		
+			</div><div pagelayer-id="ytf2171" class="p-ytf2171 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="ytf2171">.p-ytf2171{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-ytf2171 .pagelayer-heading-holder *{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-ytf2171 .pagelayer-heading-holder{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Analisys of Financial Documents</div>
+		
+			</div><div pagelayer-id="ksn6900" class="p-ksn6900 pagelayer-testimonial_slider fadeInUp pagelayer-wow">
+<style pagelayer-style-id="ksn6900">.p-ksn6900 .pagelayer-owl-prev{background-color: #6a6969 !important;color: #ffffff !important;width: 20px; height: 20px;border-radius: 20% !important}
+.p-ksn6900 .pagelayer-owl-next{background-color: #6a6969 !important;color: #ffffff !important;width: 20px; height: 20px;border-radius: 20% !important}
+.p-ksn6900 .pagelayer-owl-dot span{background-color: #ffffff !important}
+.p-ksn6900 .pagelayer-owl-dot.active span{width: 14px !important; height: 14px !important}
+.p-ksn6900{-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-ksn6900 .pagelayer-top-position{
+background-color: #fff;
+padding: 10px;
+}
+</style><div class="pagelayer-testimonials-holder pagelayer-owl-holder pagelayer-owl-carousel pagelayer-owl-theme" data-slides-items="4" data-slides-margin="10" data-slides-controls="pager" data-slides-autoplay="true"><div pagelayer-id="l6l8910" class="p-l6l8910 pagelayer-testimonial">
+<style pagelayer-style-id="l6l8910">.p-l6l8910{text-align:center}
+.p-l6l8910 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-l6l8910  .pagelayer-testimonial-image{width:253px !important; height:253px !important}
+.p-l6l8910 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-l6l8910 .pagelayer-testimonial-cite{margin-top: 15px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-l6l8910 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+</div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-top-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-square" src="https://optimalinfo.tech/wp-content/uploads/2021/08/staff01.jpg" title="staff01" alt="staff01" />
+			</div>
+			<div class="pagelayer-top-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">Maria Rhodes</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						Web Developer
+					</span>
+				</div>
+			</div>
+		</div></div><div pagelayer-id="th93303" class="p-th93303 pagelayer-testimonial">
+<style pagelayer-style-id="th93303">.p-th93303{text-align:center}
+.p-th93303 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-th93303  .pagelayer-testimonial-image{width:253px !important; height:253px !important}
+.p-th93303 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-th93303 .pagelayer-testimonial-cite{margin-top: 15px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-th93303 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+</div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-top-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-square" src="https://optimalinfo.tech/wp-content/uploads/2021/08/staff01.jpg" title="staff01" alt="staff01" />
+			</div>
+			<div class="pagelayer-top-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">Mark Wagh</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						Founder
+					</span>
+				</div>
+			</div>
+		</div></div><div pagelayer-id="fk31356" class="p-fk31356 pagelayer-testimonial">
+<style pagelayer-style-id="fk31356">.p-fk31356{text-align:center}
+.p-fk31356 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-fk31356  .pagelayer-testimonial-image{width:253px !important; height:253px !important}
+.p-fk31356 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-fk31356 .pagelayer-testimonial-cite{margin-top: 15px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-fk31356 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+</div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-top-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-square" src="https://optimalinfo.tech/wp-content/uploads/2021/08/staff01.jpg" title="staff01" alt="staff01" />
+			</div>
+			<div class="pagelayer-top-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">Ruby Wilson</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						HR Manager
+					</span>
+				</div>
+			</div>
+		</div></div><div pagelayer-id="lgg4854" class="p-lgg4854 pagelayer-testimonial">
+<style pagelayer-style-id="lgg4854">.p-lgg4854{text-align:center}
+.p-lgg4854 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-lgg4854  .pagelayer-testimonial-image{width:253px !important; height:253px !important}
+.p-lgg4854 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-lgg4854 .pagelayer-testimonial-cite{margin-top: 15px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-lgg4854 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+</div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-top-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-square" src="https://optimalinfo.tech/wp-content/uploads/2021/08/home01.jpg" title="home01" alt="home01" />
+			</div>
+			<div class="pagelayer-top-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">Michael Vaughn</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						Web Developer
+					</span>
+				</div>
+			</div>
+		</div></div><div pagelayer-id="z277062" class="p-z277062 pagelayer-testimonial">
+<style pagelayer-style-id="z277062">.p-z277062{text-align:center}
+.p-z277062 .pagelayer-testimonial-author-details{margin-top:20px}
+.p-z277062  .pagelayer-testimonial-image{width:253px !important; height:253px !important}
+.p-z277062 .pagelayer-testimonial-author{font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-z277062 .pagelayer-testimonial-cite{margin-top: 15px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-z277062 .pagelayer-testimonial-author-title{color:#2a83f9;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 100 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 2em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-testimonial-content">
+
+
+
+
+
+</div>
+		<div class="pagelayer-testimonial-author-details">
+			<div class="pagelayer-top-position">
+				<img class="pagelayer-img pagelayer-testimonial-image pagelayer-testimonial-square" src="https://optimalinfo.tech/wp-content/uploads/2021/08/staff01.jpg" title="staff01" alt="staff01" />
+			</div>
+			<div class="pagelayer-top-position">
+				<div class="pagelayer-testimonial-cite">
+					
+						<span class="pagelayer-testimonial-author">John Smith</span>
+					
+					<span class="pagelayer-testimonial-author-title">
+						Web Developer
+					</span>
+				</div>
+			</div>
+		</div></div></div></div></div></div></div></div>
+<div pagelayer-id="zop7787" class="p-zop7787 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="zop7787">.p-zop7787 .pagelayer-col-holder{padding: 10px}
+.p-zop7787 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-zop7787 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-zop7787 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-zop7787 .pagelayer-row-svg .pagelayer-svg-bottom{width:500%;height:100px}
+.p-zop7787{padding-top: 4em; padding-right: 0em; padding-bottom: 4em; padding-left: 0em}
+@media (max-width: 768px) and (min-width: 361px){.p-zop7787{padding-top: 40px; padding-right: 0px; padding-bottom: 50px; padding-left: 0px}}
+@media (max-width: 360px){.p-zop7787{padding-top: 30px; padding-right: 1px; padding-bottom: 40px; padding-left: 0px}}
+</style>
+			
+			
+			<div class="pagelayer-row-shape">
+				<div class="pagelayer-row-svg">
+					
+											
+				</div>
+			</div>
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="0zr4969" class="p-0zr4969 pagelayer-col pagelayer-col-5">
+<style pagelayer-style-id="0zr4969">.p-0zr4969 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-0zr4969 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-0zr4969{padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 2em}
+@media (max-width: 768px) and (min-width: 361px){.p-0zr4969{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+@media (max-width: 360px){.p-0zr4969{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="i8a8975" class="p-i8a8975 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="i8a8975">.p-i8a8975{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-i8a8975 .pagelayer-heading-holder *{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-i8a8975 .pagelayer-heading-holder{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Our Analisys is Your</div>
+		
+			</div><div pagelayer-id="vyb7081" class="p-vyb7081 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="vyb7081">.p-vyb7081{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-vyb7081 .pagelayer-heading-holder *{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-vyb7081 .pagelayer-heading-holder{font-family:  !important; font-size: 35px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 768px) and (min-width: 361px){.p-vyb7081 .pagelayer-heading-holder *{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 768px) and (min-width: 361px){.p-vyb7081 .pagelayer-heading-holder{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-vyb7081 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-vyb7081 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+<span style="color: #2A83F9">CHOOSE A</span> testimonial</div>
+		
+			</div><div pagelayer-id="i8g4667" class="p-i8g4667 pagelayer-heading fadeInUp pagelayer-wow" align="left">
+<style pagelayer-style-id="i8g4667">.p-i8g4667{text-align: left;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-i8g4667 .pagelayer-heading-holder *{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-i8g4667 .pagelayer-heading-holder{color:#0a0b0b;font-family:  !important; font-size: 20px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+Analisys of Financial Documents</div>
+		
+			</div><div pagelayer-id="xnm6131" class="p-xnm6131 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="xnm6131">.p-xnm6131 .pagelayer-col-holder{padding: 10px}
+.p-xnm6131 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-xnm6131 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-xnm6131 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-xnm6131 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-xnm6131 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"><div pagelayer-id="tqq5576" class="p-tqq5576 pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="tqq5576">.p-tqq5576 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-tqq5576 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="j3u9436" class="p-j3u9436 pagelayer-pricing fadeInUp pagelayer-wow">
+<style pagelayer-style-id="j3u9436">.p-j3u9436 .pagelayer-pricing-type{color:#2a83f9;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Capitalize !important; letter-spacing: px !important; word-spacing: px !important}
+.p-j3u9436 .pagelayer-pricing-sub-title{color:#ffffff;font-family: Poppins; font-size: 18px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-j3u9436 .pagelayer-pricing-details{background-color:rgba(213,84,0,0.00) !important;padding: 10px 10px 10px 10px;border-style: solid;border-color: #999999;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-j3u9436 .pagelayer-pricing-price .pagelayer-pricing-currency{font-family: Poppins; font-size: 35px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;line-height:30%}
+.p-j3u9436 .pagelayer-pricing-price .pagelayer-pricing-rate{font-family: Poppins; font-size: 45px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-j3u9436 .pagelayer-pricing-rate-section{background-color:rgba(233,139,43,0.00)}
+.p-j3u9436 .pagelayer-pricing-duration{display:inline-block;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-j3u9436 .pagelayer-pricing-features{background-color:#ffffff}
+.p-j3u9436 .pagelayer-pricing-ul li span{color:#000000;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-j3u9436 .pagelayer-pricing-btn{padding:3px 20px;margin-top: 10px;color:#0c0b0b;border-style: solid;border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px;border-radius: 20px 20px 20px 20px; -webkit-border-radius:  20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px;-webkit-transition: all 400ms; transition: all 400ms}
+.p-j3u9436 .pagelayer-pricing-additional{color:#000000;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-j3u9436{padding-top: 25px; padding-right: 0px; padding-bottom: 25px; padding-left: 0px;box-shadow: 1px 2px 4px 4px #eeeeee  !important;border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-color: rgba(204,204,204,0.05);border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-j3u9436 .pagelayer-pricing-rate-section{
+border-bottom: 2px solid #999;
+    margin: 0 20px;
+}
+.p-j3u9436 .pagelayer-pricing-details{
+margin: 0 20px;
+}
+.p-j3u9436 .pagelayer-pricing-ul{
+border-bottom: 2px solid #999;
+padding: 0px 0px 20px;
+margin-bottom: 20px;
+}
+</style><div class="pagelayer-pricing-details">
+						
+			<h3 class="pagelayer-pricing-type">Basic Plan</h3>
+						
+		</div>
+		<div class="pagelayer-pricing-rate-section">
+			
+			<h2 class="pagelayer-pricing-price">
+				<span class="pagelayer-pricing-currency pagelayer-pricing-currency-top">$</span>
+				<span class="pagelayer-pricing-rate pagelayer-pricing-amt">35</span>
+			</h2>
+			<p class="pagelayer-pricing-duration">Per Month</p>
+		</div>		
+		<div class="pagelayer-pricing-features">
+			<ul class="pagelayer-pricing-ul"><div pagelayer-id="8a04139" class="p-8a04139 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="26s2857" class="p-26s2857 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="t8d8788" class="p-t8d8788 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="9qq1177" class="p-9qq1177 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="9g78218" class="p-9g78218 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div></ul>			
+			<a href="{{{button_url}}}" class="pagelayer-pricing-btn pagelayer-btn-custom pagelayer-ele-link pagelayer-button pagelayer-btn-custom">Select Plan</a>
+			
+		</div></div></div></div><div pagelayer-id="s2y3231" class="p-s2y3231 pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="s2y3231">.p-s2y3231 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-s2y3231 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="0dz8897" class="p-0dz8897 pagelayer-pricing fadeInUp pagelayer-wow">
+<style pagelayer-style-id="0dz8897">.p-0dz8897 .pagelayer-pricing-type{color:#ffffff;font-family: ; font-size: 25px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Capitalize !important; letter-spacing: px !important; word-spacing: px !important}
+.p-0dz8897 .pagelayer-pricing-sub-title{color:#ffffff;font-family: Poppins; font-size: 18px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-0dz8897 .pagelayer-pricing-details{background-color:#2a83f9 !important;padding: 0px 0px 0px 0px}
+.p-0dz8897 .pagelayer-pricing-price .pagelayer-pricing-currency{color:#ffffff;font-family: Poppins; font-size: 35px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;line-height:30%}
+.p-0dz8897 .pagelayer-pricing-price .pagelayer-pricing-rate{font-family: Poppins; font-size: 50px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;color:#ffffff}
+.p-0dz8897 .pagelayer-pricing-rate-section{background-color:rgba(233,139,43,0.00)}
+.p-0dz8897 .pagelayer-pricing-duration{display:inline-block;color:#fefefe;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-0dz8897 .pagelayer-pricing-ul li span{color:#fcfcfc;font-family: ; font-size: 18px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-0dz8897 .pagelayer-pricing-btn{padding:3px 20px;font-family: ; font-size: 20px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;margin-top: 10px;color:#ffffff;border-style: solid;border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px;border-radius: 20px 20px 20px 20px; -webkit-border-radius:  20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px;-webkit-transition: all 400ms; transition: all 400ms}
+.p-0dz8897 .pagelayer-pricing-additional{color:#000000;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-0dz8897{background: #2a83f9;padding-top: 30px; padding-right: 0px; padding-bottom: 35px; padding-left: 0px;box-shadow: 1px 2px 4px 4px #eeeeee  !important;border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-color: rgba(204,204,204,0.05);border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 700ms; animation-delay: 700ms}
+.p-0dz8897 .pagelayer-pricing-rate-section{
+    margin: 0 20px;
+}
+.p-0dz8897 .pagelayer-pricing-details{
+margin: 0 20px;
+}
+.p-0dz8897 .pagelayer-pricing-ul{
+padding: 0px 0px 20px;
+margin-bottom: 20px;
+}
+</style><div class="pagelayer-pricing-details">
+						
+			<h3 class="pagelayer-pricing-type">Advance Plan</h3>
+						
+		</div>
+		<div class="pagelayer-pricing-rate-section">
+			
+			<h2 class="pagelayer-pricing-price">
+				<span class="pagelayer-pricing-currency pagelayer-pricing-currency-top">$</span>
+				<span class="pagelayer-pricing-rate pagelayer-pricing-amt">45</span>
+			</h2>
+			<p class="pagelayer-pricing-duration">Per Month</p>
+		</div>		
+		<div class="pagelayer-pricing-features">
+			<ul class="pagelayer-pricing-ul"><div pagelayer-id="i1w8586" class="p-i1w8586 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="yh53297" class="p-yh53297 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="28z9809" class="p-28z9809 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="c1b3703" class="p-c1b3703 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="h6n9578" class="p-h6n9578 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div></ul>			
+			<a href="{{{button_url}}}" class="pagelayer-pricing-btn pagelayer-btn-custom pagelayer-ele-link pagelayer-button pagelayer-btn-custom">Select Plan</a>
+			
+		</div></div></div></div><div pagelayer-id="v2b9180" class="p-v2b9180 pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="v2b9180">.p-v2b9180 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-v2b9180 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder"><div pagelayer-id="b8k2994" class="p-b8k2994 pagelayer-pricing fadeInUp pagelayer-wow pagelayer-anim-slow">
+<style pagelayer-style-id="b8k2994">.p-b8k2994 .pagelayer-pricing-type{color:#2a83f9;font-family: ; font-size: 20px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Capitalize !important; letter-spacing: px !important; word-spacing: px !important}
+.p-b8k2994 .pagelayer-pricing-sub-title{color:#ffffff;font-family: Poppins; font-size: 18px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-b8k2994 .pagelayer-pricing-details{background-color:rgba(213,84,0,0.00) !important;padding: 10px 10px 10px 10px;border-style: solid;border-color: #999999;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-b8k2994 .pagelayer-pricing-price .pagelayer-pricing-currency{font-family: Poppins; font-size: 35px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;line-height:30%}
+.p-b8k2994 .pagelayer-pricing-price .pagelayer-pricing-rate{font-family: Poppins; font-size: 45px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-b8k2994 .pagelayer-pricing-rate-section{background-color:rgba(233,139,43,0.00)}
+.p-b8k2994 .pagelayer-pricing-duration{display:inline-block;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-b8k2994 .pagelayer-pricing-features{background-color:#ffffff}
+.p-b8k2994 .pagelayer-pricing-ul li span{color:#000000;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-b8k2994 .pagelayer-pricing-btn{padding:3px 20px;margin-top: 10px;color:#0c0b0b;border-style: solid;border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px;border-radius: 20px 20px 20px 20px; -webkit-border-radius:  20px 20px 20px 20px;-moz-border-radius: 20px 20px 20px 20px;-webkit-transition: all 400ms; transition: all 400ms}
+.p-b8k2994 .pagelayer-pricing-additional{color:#000000;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-b8k2994{padding-top: 25px; padding-right: 0px; padding-bottom: 25px; padding-left: 0px;box-shadow: 1px 2px 4px 4px #eeeeee  !important;border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-color: rgba(204,204,204,0.05);border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px;-webkit-animation-delay: 700ms; animation-delay: 700ms}
+.p-b8k2994 .pagelayer-pricing-rate-section{
+border-bottom: 2px solid #999;
+    margin: 0 20px;
+}
+.p-b8k2994 .pagelayer-pricing-details{
+margin: 0 20px;
+}
+.p-b8k2994 .pagelayer-pricing-ul{
+border-bottom: 2px solid #999;
+padding: 0px 0px 20px;
+margin-bottom: 20px;
+}
+</style><div class="pagelayer-pricing-details">
+						
+			<h3 class="pagelayer-pricing-type">Professional Plan</h3>
+						
+		</div>
+		<div class="pagelayer-pricing-rate-section">
+			
+			<h2 class="pagelayer-pricing-price">
+				<span class="pagelayer-pricing-currency pagelayer-pricing-currency-top">$</span>
+				<span class="pagelayer-pricing-rate pagelayer-pricing-amt">60</span>
+			</h2>
+			<p class="pagelayer-pricing-duration">Per Month</p>
+		</div>		
+		<div class="pagelayer-pricing-features">
+			<ul class="pagelayer-pricing-ul"><div pagelayer-id="jqt4235" class="p-jqt4235 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="zgd6463" class="p-zgd6463 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="6jp7870" class="p-6jp7870 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="32b6317" class="p-32b6317 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div><div pagelayer-id="fo22383" class="p-fo22383 pagelayer-list_item">
+<li class="pagelayer-list-li">
+				
+					<span class="pagelayer-list-icon-holder">
+						
+						<span class="pagelayer-list-item">
+
+
+
+
+
+
+Lorem Ipsum</span>
+					</span>
+				
+			</li></div></ul>			
+			<a href="{{{button_url}}}" class="pagelayer-pricing-btn pagelayer-btn-custom pagelayer-ele-link pagelayer-button pagelayer-btn-custom">Select Plan</a>
+			
+		</div></div></div></div></div></div></div></div></div></div>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-18 -->
+
+<div id="comments" class="comments-area">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://optimalinfo.tech/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='18' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p></form>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+	</main><!-- #main -->
+
+
+	<footer class="pagelayer-footer"><div pagelayer-id="sek4323" class="p-sek4323 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="sek4323">.p-sek4323 .pagelayer-col-holder{padding: 10px}
+.p-sek4323 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-sek4323 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-sek4323 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-sek4323 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-sek4323 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-sek4323{background: #bae4fa;padding-top: 60px; padding-right: 0px; padding-bottom: 40px; padding-left: 0px}
+@media (max-width: 768px) and (min-width: 361px){.p-sek4323{padding-top: 30px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px}}
+@media (max-width: 360px){.p-sek4323{padding-top: 20px; padding-right: 0px; padding-bottom: 20px; padding-left: 0px}}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="9gw9611" class="p-9gw9611 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="9gw9611">.p-9gw9611 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-9gw9611 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+@media (max-width: 360px){.p-9gw9611{padding-top: 15px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="jlc5410" class="p-jlc5410 pagelayer-heading">
+<style pagelayer-style-id="jlc5410">.p-jlc5410 .pagelayer-heading-holder *{color:#171515;font-family:  !important; font-size: 28px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-jlc5410 .pagelayer-heading-holder{color:#171515;font-family:  !important; font-size: 28px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 360px){.p-jlc5410 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-jlc5410 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+About</div>
+		
+			</div>
+<div pagelayer-id="co58105" class="p-co58105 pagelayer-text">
+<style pagelayer-style-id="co58105">.p-co58105{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+</style><div class="pagelayer-text-holder">
+
+<p>Proin diam justo, scelerisque non felis porta, placerat vestibulum nisi. Vestibulum ac elementum massa. In rutrum quis risus quis sollicitudin. Pellentesque non eros ante.</p></div></div>
+<div pagelayer-id="x872085" class="p-x872085 pagelayer-share_grp pagelayer-share-type-icon pagelayer-social-shape-circle">
+<style pagelayer-style-id="x872085">.p-x872085{text-align: left}
+@media (max-width: 768px) and (min-width: 361px){.p-x872085{text-align: left}}
+@media (max-width: 360px){.p-x872085{text-align: left}}
+.p-x872085 .pagelayer-share{padding-top: 2px; padding-bottom: 2px;padding-left: 2px; padding-right: 2px}
+.p-x872085 .pagelayer-share-content{min-height: 35px;background-color: #fbfbfb !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-x872085 i{font-size: 18px}
+.p-x872085 .pagelayer-icon-holder{font-size: 18px;padding-left: calc(0.5em + 10px); padding-right: calc(0.5em + 10px)}
+.p-x872085 .pagelayer-share-buttons i{color: #2a83f9 !important}
+.p-x872085 .pagelayer-share-content i{-webkit-transition: all 400ms; transition: all 400ms}
+.p-x872085 .pagelayer-share-buttons:hover i{color: #fcfcfc !important}
+.p-x872085 .pagelayer-share-content:hover{background-color: #2a83f9 !important}
+.p-x872085 .pagelayer-icon-name{font-family: ; font-size: 15px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+</style>
+<div pagelayer-id="3nq7299" class="p-3nq7299 pagelayer-share">
+
+				<a class="pagelayer-ele-link" title="fab fa-facebook-f" href="https://www.facebook.com/sharer/sharer.php?u=optimalinfo.tech/" target="_blank">
+					<div class="pagelayer-share-content pagelayer-facebook-f" data-icon="fab fa-facebook-f">
+						<div class="pagelayer-icon-holder pagelayer-share-buttons">
+							<i class="pagelayer-social-fa fab fa-facebook-f"></i>
+						</div>
+						<div class="pagelayer-icon-name">
+							<span class="pagelayer-icon-name-span">Facebook</span>
+						</div>
+					</div>
+				</a></div>
+<div pagelayer-id="xi31223" class="p-xi31223 pagelayer-share">
+
+				<a class="pagelayer-ele-link" title="fab fa-twitter" href="https://twitter.com/share?url=optimalinfo.tech/" target="_blank">
+					<div class="pagelayer-share-content pagelayer-twitter" data-icon="fab fa-twitter">
+						<div class="pagelayer-icon-holder pagelayer-share-buttons">
+							<i class="pagelayer-social-fa fab fa-twitter"></i>
+						</div>
+						<div class="pagelayer-icon-name">
+							<span class="pagelayer-icon-name-span">Twitter</span>
+						</div>
+					</div>
+				</a></div>
+<div pagelayer-id="56f7205" class="p-56f7205 pagelayer-share">
+
+				<a class="pagelayer-ele-link" title="fab fa-google-plus-g" href="https://plus.google.com/share?url=optimalinfo.tech/" target="_blank">
+					<div class="pagelayer-share-content pagelayer-google-plus-g" data-icon="fab fa-google-plus-g">
+						<div class="pagelayer-icon-holder pagelayer-share-buttons">
+							<i class="pagelayer-social-fa fab fa-google-plus-g"></i>
+						</div>
+						<div class="pagelayer-icon-name">
+							<span class="pagelayer-icon-name-span">Google+</span>
+						</div>
+					</div>
+				</a></div>
+<div pagelayer-id="jjf4986" class="p-jjf4986 pagelayer-share">
+
+				<a class="pagelayer-ele-link" title="fab fa-instagram" href="https://www.instagram.com/" target="_blank">
+					<div class="pagelayer-share-content pagelayer-instagram" data-icon="fab fa-instagram">
+						<div class="pagelayer-icon-holder pagelayer-share-buttons">
+							<i class="pagelayer-social-fa fab fa-instagram"></i>
+						</div>
+						<div class="pagelayer-icon-name">
+							<span class="pagelayer-icon-name-span">Instagram</span>
+						</div>
+					</div>
+				</a></div>
+</div>
+</div></div>
+<div pagelayer-id="7am6108" class="p-7am6108 pagelayer-col pagelayer-col-2">
+<style pagelayer-style-id="7am6108">.p-7am6108 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-7am6108 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+@media (max-width: 768px) and (min-width: 361px){.p-7am6108{padding-top: 1em; padding-right: 0em; padding-bottom: 1em; padding-left: 0em}}
+@media (max-width: 360px){.p-7am6108{padding-top: 15px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="gqw8315" class="p-gqw8315 pagelayer-heading">
+<style pagelayer-style-id="gqw8315">.p-gqw8315 .pagelayer-heading-holder *{color:#161414;font-family:  !important; font-size: 24px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-gqw8315 .pagelayer-heading-holder{color:#161414;font-family:  !important; font-size: 24px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 360px){.p-gqw8315 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-gqw8315 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+
+
+
+Quick Links</div>
+		
+			</div>
+<div pagelayer-id="6d97765" class="p-6d97765 pagelayer-wp_menu">
+<style pagelayer-style-id="6d97765">.p-6d97765 ul{text-align:left}
+.p-6d97765 .pagelayer-wp-menu-container li{list-style: none}
+.p-6d97765 .pagelayer-wp_menu-ul>li a:first-child{color: #121212}
+.p-6d97765 .pagelayer-menu-hover-background .pagelayer-wp_menu-ul>li:hover{background-color: rgba(0,204,255,0.00)}
+.p-6d97765 .pagelayer-wp_menu-ul>li>a:hover:before{background-color: rgba(0,204,255,0.00);border-color:rgba(0,204,255,0.00)}
+.p-6d97765 .pagelayer-wp_menu-ul>li>a:hover:after{background-color: rgba(0,204,255,0.00);border-color:rgba(0,204,255,0.00)}
+.p-6d97765 .pagelayer-wp_menu-ul>li.active-sub-menu{background-color: rgba(0,204,255,0.00)}
+.p-6d97765 .pagelayer-wp-menu-container ul.sub-menu>li a{color: #ffffff}
+.p-6d97765 .pagelayer-wp-menu-container ul.sub-menu{background-color: #0986c0}
+.p-6d97765 .pagelayer-wp-menu-container ul.sub-menu li a{padding-left: 10px;padding-right: 10px;padding-top: 10px;padding-bottom	: 10px}
+.p-6d97765 .pagelayer-wp-menu-container .sub-menu a{margin-left: 10px}
+.p-6d97765 .pagelayer-wp-menu-container .sub-menu .sub-menu a{margin-left: calc(2 * 10px)}
+.p-6d97765 .pagelayer-primary-menu-bar{text-align:center}
+.p-6d97765 .pagelayer-primary-menu-bar i{background-color:rgba(9,134,192,0.31);font-size:30px}
+.p-6d97765 .pagelayer-menu-type-dropdown{width:30%;background-color:#ffffff}
+.p-6d97765 .pagelayer-menu-type-dropdown .pagelayer-wp_menu-ul{width:100%;top: 8%; transform: translateY(-8%)}
+.p-6d97765 .pagelayer-wp_menu-close i{font-size:25px;padding:8px;color:rgba(255,255,255,0.41);background-color:rgba(0,0,0,0.21);-webkit-transition: all 600ms !important; transition: all 600ms !important}
+.p-6d97765 .pagelayer-wp_menu-close i:hover{color:#ffffff;background-color:#000000}
+</style><div class="pagelayer-wp-menu-holder" data-layout="vertical" data-submenu_ind="caret-down" data-drop_breakpoint="{{drop_breakpoint}}">
+			<div class="pagelayer-primary-menu-bar"><i class="fas fa-bars"></i></div>
+			<div class="pagelayer-wp-menu-container pagelayer-menu-type-vertical pagelayer-menu-hover- slide pagelayer-wp_menu-right" data-align="left">
+				<div class="pagelayer-wp_menu-close"><i class="fas fa-times"></i></div>
+				<div class="menu-financy-header-menu-container"><ul id="2" class="pagelayer-wp_menu-ul"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-18 current_page_item menu-item-23"><a href="https://optimalinfo.tech/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://optimalinfo.tech/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="https://optimalinfo.tech/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://optimalinfo.tech/services/">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://optimalinfo.tech/contact/">Contact</a></li>
+</ul></div>
+			</div>
+		</div></div>
+</div></div>
+<div pagelayer-id="umn2271" class="p-umn2271 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="umn2271">.p-umn2271 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-umn2271 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+@media (max-width: 768px) and (min-width: 361px){.p-umn2271{padding-top: 1em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em}}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="3nk2222" class="p-3nk2222 pagelayer-heading">
+<style pagelayer-style-id="3nk2222">.p-3nk2222 .pagelayer-heading-holder *{color:#201b1b;font-family:  !important; font-size: 24px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-3nk2222 .pagelayer-heading-holder{color:#201b1b;font-family:  !important; font-size: 24px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 360px){.p-3nk2222 .pagelayer-heading-holder *{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+@media (max-width: 360px){.p-3nk2222 .pagelayer-heading-holder{font-family:  !important; font-size: 25px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}}
+</style><div class="pagelayer-heading-holder">
+
+
+
+
+
+Contact Us</div>
+		
+			</div>
+<div pagelayer-id="y2a9090" class="p-y2a9090 pagelayer-address">
+<style pagelayer-style-id="y2a9090">.p-y2a9090 .pagelayer-address *, .p-y2a9090 .pagelayer-address{color:#141212}
+body:not(.rtl) .p-y2a9090 .pagelayer-address-icon{margin-right: 15px}
+body.rtl .p-y2a9090 .pagelayer-address-icon{margin-left:15px}
+.p-y2a9090 .pagelayer-address-icon i{color:#0c0d0d}
+</style><div class="pagelayer-address-holder">
+			<span class="pagelayer-address-icon"><i class="fas fa-map-marker-alt"></i></span>
+			<span class="pagelayer-address">1, My Address, My Street, New York City, NY, USA</span>
+		</div></div>
+<div pagelayer-id="jd62665" class="p-jd62665 pagelayer-phone">
+<style pagelayer-style-id="jd62665">.p-jd62665 .pagelayer-phone *, .p-jd62665 .pagelayer-phone{color:#161414}
+body:not(.rtl) .p-jd62665 .pagelayer-phone-icon{margin-right: 15px}
+body.rtl .p-jd62665 .pagelayer-phone-icon{margin-left:15px}
+.p-jd62665 .pagelayer-phone-icon i{color:#121010}
+</style><div class="pagelayer-phone-holder">
+			<span class="pagelayer-phone-icon"><i class="fas fa-phone-alt"></i></span>
+			
+				<span class="pagelayer-phone">+1234567890</span>
+			
+			</div></div>
+<div pagelayer-id="3x23414" class="p-3x23414 pagelayer-email">
+<style pagelayer-style-id="3x23414">.p-3x23414 .pagelayer-email *, .p-3x23414 .pagelayer-email{color:#131111}
+body:not(.rtl) .p-3x23414 .pagelayer-email-icon{margin-right: 15px}
+body.rtl .p-3x23414 .pagelayer-email-icon{margin-left:15px}
+.p-3x23414 .pagelayer-email-icon i{color:#151414}
+</style><div class="pagelayer-email-holder">
+			<span class="pagelayer-email-icon"><i class="fas fa-envelope"></i></span>
+			<span class="pagelayer-email">contact@domain.com</span>
+				</div>
+			
+			</div>
+<div pagelayer-id="rlk7639" class="p-rlk7639 pagelayer-iconbox">
+<style pagelayer-style-id="rlk7639">.p-rlk7639 .pagelayer-service-icon i{color:#0c0b0b;-webkit-transition: all 400ms; transition: all 400ms}
+.p-rlk7639 .pagelayer-service-icon{font-size:18px}
+.p-rlk7639 .pagelayer-service-heading{text-align:left;padding-top:0px; padding-right:0px; padding-bottom:10px; padding-left:15px;color:#0d0c0c;font-family: ; font-size: 16px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-rlk7639 .pagelayer-service-details{text-align:center}
+.p-rlk7639 .pagelayer-service-btn{-webkit-transition: all 400ms; transition: all 400ms}
+@media (max-width: 768px) and (min-width: 361px){.p-rlk7639{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}}
+</style><div class="pagelayer-service-container pagelayer-service-align-left pagelayer-service-vertical-top">
+			<div class="pagelayer-service-icon pagelayer-service-default">
+				<i class="fas fa-fax pagelayer-icon-{{service_icon_shape_type}} pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">1234567890</div>
+				
+				<div class="pagelayer-service-text">
+
+
+
+
+</div>
+				
+			</div>
+			 
+		</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="q1b3935" class="p-q1b3935 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="q1b3935">.p-q1b3935 .pagelayer-col-holder{padding: 20px}
+.p-q1b3935>.pagelayer-row-holder .pagelayer-col{align-content: center}
+.p-q1b3935 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-q1b3935 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-q1b3935 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-q1b3935 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-q1b3935 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-q1b3935{background: #2a83f9}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="xql8277" class="p-xql8277 pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="xql8277">.p-xql8277{align-content: center !important}
+.p-xql8277 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-xql8277 .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="l9e1775" class="p-l9e1775 pagelayer-copyright">
+<style pagelayer-style-id="l9e1775">.p-l9e1775 .pagelayer-copyright *, .p-l9e1775 .pagelayer-copyright{color:#fafafa}
+.p-l9e1775 .pagelayer-copyright{text-align: center}
+@media (max-width: 360px){.p-l9e1775 .pagelayer-copyright{text-align: center}}
+</style><div class="pagelayer-copyright">
+			<a href="https://optimalinfo.tech">
+				© 2021 Optimal Info | <a href="https://popularfx.com">PopularFX Theme</a>
+			</a>
+		</div></div>
+</div></div>
+</div></div>
+
+	</footer><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A500" as="fetch" crossorigin="anonymous"><link rel='stylesheet' id='pagelayer-google-font-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A500&#038;ver=1.5.7' media='all' />
+<script src='https://optimalinfo.tech/wp-content/themes/popularfx/js/navigation.js?ver=1.2.0' id='popularfx-navigation-js'></script>
+<script src='https://optimalinfo.tech/wp-includes/js/comment-reply.min.js?ver=5.8.1' id='comment-reply-js'></script>
+<script src='https://optimalinfo.tech/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+</body>
+	</html>
